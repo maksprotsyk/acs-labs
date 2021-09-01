@@ -1,4 +1,4 @@
-# Lab 3 Part 2: Counting the number of words in text files
+# Lab 3 Part 2: Counting the number of words in text files (implementation of thread-safe queue)
 
 ## Team
 
