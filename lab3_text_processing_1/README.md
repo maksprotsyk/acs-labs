@@ -1,4 +1,4 @@
-# Lab 3 Part 1: Counting the number of words in text files
+# Lab 3 Part 1: Counting the number of words in text files (Naive approach)
 
 ## Team
 
