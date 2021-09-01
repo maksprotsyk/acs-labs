@@ -1,0 +1,5 @@
+index_directory_path=test
+by_alphabet_path=alph.txt
+by_count_path=count.txt
+threads_indexing=10
+threads_merging=10

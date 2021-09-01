@@ -1,0 +1,8 @@
+input_file=heatmap1000.txt
+output_file=file.txt
+dx=0.01
+dy=0.01
+alpha=0.01
+dt=0.001
+iterations=40000
+iter_per_save=1000

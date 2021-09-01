@@ -1,0 +1,9 @@
+1 threads: 78571613.0
+2 threads: 41355172.0
+3 threads: 28322615.0
+4 threads: 21720676.0
+5 threads: 20551000.0
+6 threads: 19515589.0
+7 threads: 18509750.0
+8 threads: 18030501.0
+9 threads: 17262953.0
