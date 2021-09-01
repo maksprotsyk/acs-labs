@@ -1,4 +1,4 @@
-# Lab 3 Part 4: Counting the number of words in text files
+# Lab 3 Part 4: Counting the number of words in text files (high-level thread-safe tools)
 
 ## Team
 
